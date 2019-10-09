@@ -18,14 +18,15 @@
 * Historial medico (máx 100 caracteres por usuario)
 
 #### Requisitos funcionales 
-1. Añadir nuevo usuario
+1. Mostrar usuarios por orden alfabético
+1. Añadir usuario
+1. Mostrar las citas de los usuarios por orden de fecha y hora (Agenda)
 1. Buscar usuario
-1. Editar datos de un usuario
+1. Mostrar usuario
+1. Editar usuario
 1. Borrar usuario
 1. Añadir cita a un usuario
-1. Borrar cita de usuario
-1. Mostrar todos los usuarios por orden alfabetico 
-1. Mostrar las citas de los usuarios por orden de fecha y hora (Agenda)
+1. Eliminar cita de un usuario
 
 #### Requisitos no funcionales
 * Sistema operativo Linux
