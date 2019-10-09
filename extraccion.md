@@ -17,7 +17,7 @@
 * Tratamiento (máx 100 caracteres por usuario)
 * Historial medico (máx 100 caracteres por usuario)
 
-#### Requisitos funcionales (ordenados por fecha)
+#### Requisitos funcionales 
 1. Añadir nuevo usuario
 1. Buscar usuario
 1. Editar datos de un usuario
