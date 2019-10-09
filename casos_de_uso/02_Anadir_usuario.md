@@ -22,5 +22,5 @@ usuario.
 el usuario.
 
 **Flujo alternativo**:
-*4.a Si no se han rellenado todos los campos de información, se muestra 
+* 4.a Si no se han rellenado todos los campos de información, se muestra 
 un mensaje de error.
