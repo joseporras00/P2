@@ -17,4 +17,4 @@
 * Ninguna.
 
 **Flujo alternativo**:
-*3.a Si aún no hay usuarios, muestra un mensaje de error.
+* 3.a Si aún no hay usuarios, muestra un mensaje de error.
