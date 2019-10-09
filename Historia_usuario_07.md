@@ -1,14 +1,14 @@
-**ID**:07
-**Nombre**:Borrar usuario
+**ID**: 07
+**Nombre**: Borrar usuario
 
-**Prioridad**(del 1 al 10):8
-**Puntos estimado**:4
-**Iteración**:1
+**Prioridad** (del 1 al 10): 8
+**Puntos estimado**: 4
+**Iteración**: 1
 
-**Responsable**:Administrador
+**Responsable**: Administrador
 
-**Descripción**:
-1. Como administrador quiero poder borrar a mis pacientes
+#### Descripción
+Como administrador quiero poder borrar a mis pacientes
 
-**Validación**
-1. Debe poder eliminarse cualquier usuario
+#### Validación
+* Debe poder eliminarse cualquier usuario
