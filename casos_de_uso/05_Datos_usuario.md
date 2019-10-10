@@ -1,4 +1,4 @@
-## Buscar usuario
+## Datos de usuario
 **ID**: 04
 **Descripción**: El administrador quiere consultar el perfil de un usuario registrado.
 
