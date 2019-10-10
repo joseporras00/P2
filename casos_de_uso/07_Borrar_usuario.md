@@ -1,4 +1,4 @@
-## Buscar usuario
+## Borrar usuario
 **ID**: 04
 **Descripción**: El administrador quiere eliminar el perfil de un usuario registrado.
 
