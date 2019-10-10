@@ -13,4 +13,4 @@ Como administrador quiero ver mi agenda del dia para consultar mis citas y pacie
 #### Validación
 * Deben poder abrir la función desde el menú principal
 * Deben verse todas las listas del día, hora y paciente
-* Se debe poder entrad a la información de usuario desde la agenda
+* Se debe poder entrar a la información de usuario desde la agenda
