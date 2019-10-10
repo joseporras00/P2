@@ -1,4 +1,4 @@
-## Buscar usuario
+## Borrar cita
 **ID**: 04
 **Descripción**: El administrador quiere borrar una cita de un usuario registrado.
 
