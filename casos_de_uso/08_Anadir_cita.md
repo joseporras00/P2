@@ -1,4 +1,4 @@
-## Buscar usuario
+## Añadir cita
 **ID**: 04
 **Descripción**: El administrador quiere añadir una cita de un usuario registrado.
 
