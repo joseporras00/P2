@@ -1,4 +1,4 @@
-## Buscar usuario
+## Editar usuario
 **ID**: 04
 **Descripción**: El administrador quiere editar el perfil de un usuario registrado.
 
