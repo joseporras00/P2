@@ -11,7 +11,7 @@
 **Flujo principal**:
 1. El administrador quiere eliminar una cita de un usuario registrado anteriormente.
 1. El sistema muestra los datos del usuario y las distintas posibilidades que puede realizar relacionadas con el usuario.
-1. El administrador pulsa el botón de borrar cita y confirma.
+1. El administrador pulsa el botón de borrar cita y lo confirma o no.
 
 **Postcondiciones**: 
 * Ninguna
