@@ -5,10 +5,10 @@
 **Puntos estimado**: 3
 **Iteración**: 1
 
-**Responsable**: Administrador
+**Responsable**: Jose
 
 #### Descripción
-Como administrador quiero localizar los datos de un usuario para ver su información y las operaciones posibles con el mismo
+Como secretario quiero localizar los datos de un usuario para ver su información y las operaciones posibles con el mismo
 
 #### Validación
 * Deben poder localizarse cualquier usuario
