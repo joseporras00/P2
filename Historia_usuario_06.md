@@ -5,10 +5,10 @@
 **Puntos estimado**: 4
 **Iteración**: 1
 
-**Responsable**: Administrador
+**Responsable**: Manuel
 
 #### Descripción
-Como administrador quiero poder cambiar la información de mis pacientes
+Como secretario quiero poder cambiar la información de mis pacientes
 
 #### Validación
 * Deben poder cambiarse la información en cualquier usuario
