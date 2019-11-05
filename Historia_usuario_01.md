@@ -5,10 +5,10 @@
 **Puntos estimado**: 4
 **Iteración**: 1
 
-**Responsable**:Administrador
+**Responsable**:Secretario
 
 #### Descripción
-Como administrador quiero ver una lista de todos mis clientes para después operar con ellos
+Como secretario quiero ver una lista de todos mis clientes para después operar con ellos
 
 #### Validación
 * Deben verse todos los usuarios
