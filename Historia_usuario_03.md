@@ -5,12 +5,13 @@
 **Puntos estimado**: 3
 **Iteración**: 1
 
-**Responsable**: Administrador
+**Responsable**: Manuel
 
 #### Descripción
-Como administrador quiero ver mi agenda del dia para consultar mis citas y pacientes
+Como secretario quiero ver mi agenda del dia para consultar mis citas y pacientes
 
 #### Validación
 * Deben poder abrir la función desde el menú principal
 * Deben verse todas las listas del día, hora y paciente
 * Se debe poder entrar a la información de usuario desde la agenda
+* No puede haber dos citas en el mismo horario
